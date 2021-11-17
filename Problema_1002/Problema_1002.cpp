@@ -24,4 +24,8 @@ int main() {
   printf("A= %.4f\n", ans);
 
   return 0;
-} 
+}
+
+// C++
+// cout.setf(ios::fixed);
+// cout.precision(4);
